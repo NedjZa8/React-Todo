@@ -1,9 +1,9 @@
 import React from "react";
 
-export const NoutFound = () =>{
+export const NotFound = () =>{
     return (
         <div>
-            
+            not found
         </div>
     )
 }
